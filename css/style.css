@@ -272,18 +272,7 @@ img {
  
 }
 
-.flex-container{
-  display: flex;
-}
 
-.text-align{
-  text-align: justify;
-}
 
-.margin{
-  border: 2px solid red;
-  margin: 10px;
-  padding: 20px;
-  width: 50%;
- 
-}
+
+
